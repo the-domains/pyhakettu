@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[pyhakettu]]></title>
         <description><![CDATA[pyhakettu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pyhakettu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 07:33:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 07:38:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pyhakettu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://payload369.cargocollective.com/1/0/3626/9694644/web_IMG_1755_2048.jpg">]]></description>
+            <link>https://thegrid.ai/pyhakettu/c4cadd51-3e27-42c9-8105-f05ad9330dbe/index.html</link>
+            <guid isPermaLink="false">c4cadd51-3e27-42c9-8105-f05ad9330dbe</guid>
+            <pubDate>Wed, 30 Dec 2015 07:38:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ SAARA]]></title>
             <description><![CDATA[<article><h1> SAARA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a950b06b38e8fa5c492682877a424767ca3cc82.jpg"></article>]]></description>
